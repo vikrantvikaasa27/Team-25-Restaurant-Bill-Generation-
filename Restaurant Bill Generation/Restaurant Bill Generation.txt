@@ -1,0 +1,4 @@
+Project Description:
+
+This billing system is made to improve any restaurants with the use of modern technologies. 
+It can change the manual system of any restaurant. We improved this project with the help of Tkinter.
